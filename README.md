@@ -72,5 +72,5 @@ Contributions to Quizzler are highly encouraged! Here’s how you can get involv
 
 ## **Contact**
 - **Developer**: Tejas Upadhyay, Mobashir Ali, Aadarsh Dubey, Hardik Sharma, Ritesh Sahoo
-- **GitHub**: https://github.com/TejasUpadhyayy/Quizzler/tree/main
+- **GitHub**: [Project](https://github.com/TejasUpadhyayy/Quizzler/tree/main)
 
