@@ -37,7 +37,7 @@ To get started with Quizzler, follow these steps:
 ├── ui.py                   # User interface setup using Tkinter
 ├── main.py                 # Main script to run the application
 ├── README.md               # Project documentation
-└── requirements.txt        # Dependencies needed for the project
+└── requirements.txt        # Dependencies needed for the full project
 ```
 
 ## **Usage**
